@@ -1,5 +1,5 @@
-console.log('12줄');
-console.log('22줄');
+console.log('1줄');
+console.log('2줄');
 console.log('22줄');
 console.log('22줄');
 console.log('52줄');
