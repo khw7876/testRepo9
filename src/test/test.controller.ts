@@ -15,6 +15,7 @@ console.log('3줄');
 console.log('3줄');
 console.log('3줄');
 console.log('3줄');
+asd;
 console.log('3줄');
 console.log('3줄');
 console.log('3줄');
