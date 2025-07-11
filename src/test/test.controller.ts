@@ -20,5 +20,6 @@ console.log('3줄');
 console.log('3줄');
 console.log('3줄');
 console.log('3줄');
+ass;
 
 console.log('2줄 제거');
