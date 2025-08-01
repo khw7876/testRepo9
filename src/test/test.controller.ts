@@ -218,6 +218,16 @@ console.log('test');
 console.log('test');
 console.log('test');
 console.log('test');
+console.log('test');
+console.log('test');
+console.log('test');
+console.log('test');
+console.log('test');
+console.log('test');
+console.log('test');
+console.log('test');
+console.log('test');
+console.log('test');
 
 // 80줄 + 480줄 = 560줄
 // 가중치 = 472.5;
